@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **leonardt1234/leonardt1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...leonardoalvesgg.99@gmail.com
 - 😄 Pronouns: ...ele/dele
 - ⚡ Fun fact: ...Sou estudante da Etec Antônio Furlan, onde curso o Técnico em Informática para Internet junto ao Ensino Médio. Atualmente estou no primeiro ano e construindo minha formação na área de Tecnologia da Informação.
--->
+
